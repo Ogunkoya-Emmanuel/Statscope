@@ -23,7 +23,7 @@ from visualizer import (
 )
 
 
-st.set_page_config(page_title="Statscope", page_icon="📊")
+st.set_page_config(page_title="📊Statscope", page_icon="📊")
 
 st.title("Statscope")
 st.write("Upload a CSV or Excel file to get clear, human-friendly insights.")
