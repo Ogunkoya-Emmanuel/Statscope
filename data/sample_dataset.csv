@@ -1,0 +1,8 @@
+day,study_hours,sleep_hours,stress_level,test_score,subject
+Mon,2,7,3,65,Math
+Tue,3,6,4,70,Math
+Wed,2,8,2,75,English
+Thu,4,6,5,68,Science
+Fri,1,5,4,60,English
+Sat,5,7,2,85,Science
+Sun,4,8,1,88,Math
